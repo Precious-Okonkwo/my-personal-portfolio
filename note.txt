@@ -1,8 +1,11 @@
+prompt 1
 I want you to help me build a personal portfolio website that  showcase who
 I am, my skills, and my journey as a web developer.
 
+prompt 2
 It should be a multiple-page website
 
+prompt 3
 The website page should have the following sections:
  A menu bar, logo, and a contact me all on the same level 
 Let the menu be sticky and let it have the following items:
@@ -11,68 +14,97 @@ Let the menu be sticky and let it have the following items:
 - Skills 
 - Projects
 
+prompt 4
 Create a logo for Precious and place it at the top left hand side of the website page 
 
+prompt 5
 Let the menu bar be captured inside a deep blue-colored frame. Let the lettering be white so they are legible
 
+prompt 6
 Let the contact me sit on the top right hand side of the menu bar.
 
+prompt 7
 Hero section: 
 Below the menu bar section, let there be a hero section with a Call-To-Action button example, Download CV
 Create an ATS-Compliant Resume / CV and link it to the hero section of the website site
 
+prompt 8
+The hero section should have a Large heading with my name Precious Ifebuche Okonkwo and a tagline example, Aspiring Full-Stack Developer.
+
+prompt 9
 The hero section should be about 35% of the length of the landing page and 100% of its width 
 Let the hero section have a sky-blue background
 
+prompt 10
 The hero section should have a Large heading with my name Precious Ifebuche Okonkwo and a tagline example, Aspiring Full-Stack Developer.
 
+prompt 11
 About me: 
 This Section should have a heading: About Me
 
+prompt 12
 The about me section should be vertically partitioned into two
 
+prompt 13
 On the left hand side of the about me section should display a picture of me 
 
+prompt 14
 On the right hand side should have 2-3 paragraphs introducing myself
 My background, interests, and what motivates me. Why I am learning web development.
 
+prompt 15
 Skills:
 This Section should have a heading: My Skills
 
+prompt 16
 This section should have a List of technologies I’ve learned example, HTML, CSS, Git, Tailwind CSS, etc. each of them should be displayed in a card box with icon and name 
 
+prompt 17
 Projects: 
 This Section should have a heading: My Projects
 
+prompt 18
 This section should display 3-4 projects 
 The Projects should be in a card box 
 Each card box should have image, overlay, text and Link to live demo. 
 It should  show a high level summary of what the project set out to solve
 
+prompt 19
 Add hover effects on the card box to reveal more information
 
+prompt 20
 Contact me:
 This Section should have a heading: Get In Touch 
 
+prompt 21
 This section should have a brief message encouraging people to reach out
 
+prompt 22
 This section should be vertically partitioned into two
 
+prompt 23
 On the left hand side should have the contact information example, email, phone number, and social media links 
 
+prompt 24
 On the right hand side should have the contact form with:  Name, Email, Message field, Submit button.
 
+prompt 25
 Footer section:
 A footer that has all the copyright, my logo and social media links all on the same level.
 Let the footer be sticky.
 
+prompt 26
 Let the menu and the footer be on all the pages. 
 
+prompt 27
 Build me this using HTML and CSS. Do not use inline styling for CSS.
 Let the IDE be Visual Studio Code
 
+prompt 28
 Kindly insert comments in your code 
 
+prompt 29
 My theme color is deep blue and sky-blue.
 
+prompt 30
 Document everything  on the Landing Page using the Dewey classification system
